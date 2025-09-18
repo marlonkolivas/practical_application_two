@@ -18,6 +18,9 @@ This project applies the CRISP-DM framework to improve pricing strategies for a 
 ## Key Findings
 
 **Best Model:** Ridge Regression outperformed Linear and Lasso models, providing the most accurate price predictions and explaining the highest variance in car prices.
+See chart below:
+
+<img src="images/top_ten_features_driving_car_price_ridge_regression.png" alt="Alt text" width="1000"/>
 
 **Top Positive Price Drivers:**
 
